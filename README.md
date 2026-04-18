@@ -29,4 +29,8 @@ ultra realistic, 4k, cinematic lighting, highly detailed, sharp focus
 - Prompt engineering
 - Building UI in Colab
 - Image generation using AI
+  
+Open Interactive Notebook:-
+https://colab.research.google.com/drive/1bxCZlDCj1n7c3U1Fw41LnW6tViH_DKXV?usp=sharing
+
 
